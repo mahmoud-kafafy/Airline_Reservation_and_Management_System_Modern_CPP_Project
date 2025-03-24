@@ -1,0 +1,20 @@
+{
+    "habiba": {
+        "cardHolder": "habibamohamed",
+        "cardNumber": "12345678",
+        "cvv": "333",
+        "expDate": "08/11"
+    },
+    "hazem": {
+        "cardHolder": "hazemfarouh",
+        "cardNumber": "33445566",
+        "cvv": "444",
+        "expDate": "08/31"
+    },
+    "mahmoud": {
+        "cardHolder": "mahmoudkafafy",
+        "cardNumber": "123456",
+        "cvv": "555",
+        "expDate": "05/28"
+    }
+}

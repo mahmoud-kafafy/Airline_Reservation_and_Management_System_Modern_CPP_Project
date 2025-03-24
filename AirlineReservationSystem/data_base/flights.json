@@ -1,0 +1,24 @@
+[
+    {
+        "aircraftType": "ATR",
+        "arrivalTime": "2025-03 22 11:00",
+        "departureTime": "2025-03-22 8:40",
+        "destination": "germany",
+        "flightNumber": "3344",
+        "origin": "alexandria",
+        "price": "100$",
+        "status": "Scheduled",
+        "totalSeats": 800
+    },
+    {
+        "aircraftType": "Airbus",
+        "arrivalTime": "2025-03-30 20:00",
+        "departureTime": "2025-03-30 14:00",
+        "destination": "england",
+        "flightNumber": "1234",
+        "origin": "egypt",
+        "price": "70$",
+        "status": "Scheduled",
+        "totalSeats": 700
+    }
+]

@@ -1,0 +1,86 @@
+{
+    "adam": [
+        {
+            "flight": {
+                "aircraftType": "ATR",
+                "arrivalTime": "2025-03 22 11:00",
+                "departureTime": "2025-03-22 8:40",
+                "destination": "germany",
+                "flightNumber": "3344",
+                "origin": "alexandria",
+                "price": "100$",
+                "status": "Scheduled",
+                "totalSeats": 800
+            },
+            "isPaid": false,
+            "passengerName": "adam",
+            "paymentDetails": "",
+            "paymentMethod": "Cash",
+            "reservationID": "W234",
+            "seatNumber": "20"
+        }
+    ],
+    "habiba": [
+        {
+            "flight": {
+                "aircraftType": "Airbus",
+                "arrivalTime": "2025-03-30 20:00",
+                "departureTime": "2025-03-30 14:00",
+                "destination": "england",
+                "flightNumber": "1234",
+                "origin": "egypt",
+                "price": "70$",
+                "status": "Scheduled",
+                "totalSeats": 700
+            },
+            "isPaid": true,
+            "passengerName": "habiba",
+            "paymentDetails": "333",
+            "paymentMethod": "12345678",
+            "reservationID": "G375",
+            "seatNumber": "10"
+        }
+    ],
+    "hazem": [
+        {
+            "flight": {
+                "aircraftType": "Airbus",
+                "arrivalTime": "2025-03-30 20:00",
+                "departureTime": "2025-03-30 14:00",
+                "destination": "england",
+                "flightNumber": "1234",
+                "origin": "egypt",
+                "price": "70$",
+                "status": "Scheduled",
+                "totalSeats": 700
+            },
+            "isPaid": true,
+            "passengerName": "hazem",
+            "paymentDetails": "444",
+            "paymentMethod": "33445566",
+            "reservationID": "F352",
+            "seatNumber": "14"
+        }
+    ],
+    "mahmoud": [
+        {
+            "flight": {
+                "aircraftType": "Airbus",
+                "arrivalTime": "2025-03-30 20:00",
+                "departureTime": "2025-03-30 14:00",
+                "destination": "england",
+                "flightNumber": "1234",
+                "origin": "egypt",
+                "price": "70$",
+                "status": "Scheduled",
+                "totalSeats": 700
+            },
+            "isPaid": true,
+            "passengerName": "mahmoud",
+            "paymentDetails": "555",
+            "paymentMethod": "123456",
+            "reservationID": "G406",
+            "seatNumber": "14"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "hazem": [
+        {
+            "flight": {
+                "aircraftType": "Airbus",
+                "arrivalTime": "2025-03-30 20:00",
+                "departureTime": "2025-03-30 14:00",
+                "destination": "england",
+                "flightNumber": "1234",
+                "origin": "egypt",
+                "price": "70$",
+                "status": "Scheduled",
+                "totalSeats": 700
+            },
+            "isPaid": true,
+            "passengerName": "hazem",
+            "paymentDetails": "444",
+            "paymentMethod": "33445566",
+            "reservationID": "F352",
+            "seatNumber": "14"
+        }
+    ]
+}

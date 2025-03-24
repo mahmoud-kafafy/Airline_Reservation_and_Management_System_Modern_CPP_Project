@@ -1,0 +1,20 @@
+{
+    "A380": {
+        "aircraftID": "A380",
+        "aircraftType": "ATR",
+        "capacity": 800,
+        "maintenance": {
+            "aircraftID": "A380",
+            "maintenanceDetails": "Maintaince every week"
+        }
+    },
+    "R7005": {
+        "aircraftID": "R7005",
+        "aircraftType": "Airbus",
+        "capacity": 700,
+        "maintenance": {
+            "aircraftID": "R7005",
+            "maintenanceDetails": "Maintaince every 2 weeks"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Ahmed": {
+        "password": "ahmed1234",
+        "role": "Administrator"
+    },
+    "adam": {
+        "password": "adam1234",
+        "role": "Passenger"
+    },
+    "habiba": {
+        "password": "habiba1234",
+        "role": "Passenger"
+    },
+    "hazem": {
+        "password": "hazem1234",
+        "role": "Booking Agent"
+    },
+    "mahmoud": {
+        "password": "mahmoud1234",
+        "role": "Passenger"
+    }
+}
