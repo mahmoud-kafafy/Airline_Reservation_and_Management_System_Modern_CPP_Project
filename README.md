@@ -26,7 +26,7 @@ This **console-based Airline Reservation and Management System** is built using 
 - 🔐 **Advanced Security** – Encryption & secure authentication enhancements.  
 
 ## 📽️ Project Demo  
-[![Watch the demo](demo_thumbnail.png)](YOUR_LINKEDIN_VIDEO_URL)  
+[![Watch the demo]](https://www.linkedin.com/posts/mahmoud-kafafy-9b5a4b196_cplusplus-softwaredevelopment-moderncpp-activity-7310092939005734912-2YLd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC4Sq9kBBBVNmtB6HkT0ExLPqhFdU-6WTCw) 
 
 ## 📂 Installation & Usage  
 ```bash
